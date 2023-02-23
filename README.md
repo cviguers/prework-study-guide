@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Each section shows information about, definitions related to, and instructions on how to use each topic, such as HTML, CSS, JavaScript, and Git. When you open the DevTools console, you can see the JavaScript running.
+Each section shows information about, definitions related to, and instructions on how to use each topic, such as HTML, CSS, JavaScript, and Git. When you open the DevTools console (Control+Shift+I), you can see the JavaScript running.
 
 ## Credits
 
